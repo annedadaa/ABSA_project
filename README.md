@@ -96,7 +96,7 @@ Evaluation-scores:
 | Model     | Accuracy       | 
 |:------------- |:---------------:|
 | Baseline |  0.52         |    
-| SVM   |   0.72        | 
+| Decision Tree   |   0.72        | 
 
 
 P.S.

@@ -1,4 +1,4 @@
-# ASBA Sentiment Analysis
+# Aspect Based Sentiment Analysis
 ### Файлы:
 1) aspect_extraction.ipynb -- выделение аспектов
 2) sentiment_extraction.ipynb -- оценка тональности аспектов

@@ -59,8 +59,8 @@ Evaluation-scores:
 
 | Model     | Accuracy       | 
 |:------------- |:---------------:|
-| Baseline (PM) |  0.67         |    
-| Baseline (FM)  |   0.57      | 
+| Baseline (PM) |  0.57         |    
+| Baseline (FM)  |   0.67      | 
 | Logreg (PM)    |  0.76           |    
 | Logreg (FM)    |  0.71           |
 

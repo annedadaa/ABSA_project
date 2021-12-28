@@ -21,20 +21,20 @@
 
 Распределение аспектов:
 
-![alt text](https://sun9-80.userapi.com/impg/DbqOdcVWp_X6pSEMSBQBDzamJQrLTjqny4U0rg/WKr6gIxaKsI.jpg?size=732x495&quality=96&sign=4a8a50840fa4227b9ec7405de2931217&type=album)
+![alt text](https://sun9-67.userapi.com/impg/zZGVO7XSKFiplvAgxGTpsjlCh7WYMi63vyP7HA/D0fWPsuQkwM.jpg?size=704x483&quality=96&sign=20712793d33f84196cd343484532de19&type=album![image](https://user-images.githubusercontent.com/42929201/147552556-22256d93-7404-4d87-a6a0-8fec2aaa5d7b.png))
 
 | Aspect        |     Number      |   
 |:------------- |:---------------:| 
-| B-Food        |  1862           |   
-| I-Food        |  866            |   
-| B-Whole       |  789            |   
-| I-Whole       |  179            |    
-| B-Service     |  1241           |     
-| I-Service     |  282            |     
-| B-Price       |  134            |     
-| I-Price       |  30             |     
-| B-Interior    |  682            |     
-| I-Interior    |  282            |     
+| B-Food        |  1428           |   
+| I-Food        |  908            |   
+| B-Whole       |  686            |   
+| I-Whole       |  610            |    
+| B-Service     |  510           |     
+| I-Service     |  209            |     
+| B-Price       |  160            |     
+| I-Price       |  139             |     
+| B-Interior    |  100            |     
+| I-Interior    |  19            |     
 
 Результаты:
 

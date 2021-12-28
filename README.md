@@ -40,11 +40,11 @@
 
 | Matrics       | Baseline        | CRF.          |
 |:------------- |:---------------:| -------------:|
-| Precision (FM)|  0.48.          |     0.96      |
-| Recall (FM)   |  0.71           |     0.93      |
-| PM Ratio      |  0.61           |     0.97      |
-| Accuracy (PM) |  0.46           |     0.96      |
-| Accuracy (FM) |  0.60           |     0.97      |
+| Precision (FM)|  0.48.          |     0.77      |
+| Recall (FM)   |  0.71           |     0.62      |
+| PM Ratio      |  0.61           |     0.88      |
+| Accuracy (PM) |  0.46           |     0.74      |
+| Accuracy (FM) |  0.60           |     0.87      |
 
 ## Оценка тональности упоминания аспекта (эксплицитного аспекта)
 
@@ -61,8 +61,8 @@ Evaluation-scores:
 |:------------- |:---------------:|
 | Baseline (PM) |  0.57         |    
 | Baseline (FM)  |   0.67      | 
-| Logreg (PM)    |  0.76           |    
-| Logreg (FM)    |  0.71           |
+| Logreg (PM)    |  0.46           |    
+| Logreg (FM)    |  0.45           |
 
 
 
@@ -96,7 +96,7 @@ Evaluation-scores:
 | Model     | Accuracy       | 
 |:------------- |:---------------:|
 | Baseline |  0.52         |    
-| Decision Tree   |   0.72        | 
+| Decision Tree   |   0.73        | 
 
 
 P.S.

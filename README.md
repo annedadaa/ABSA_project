@@ -38,7 +38,7 @@
 
 Результаты:
 
-| Matrics       | Baseline        | CRF.          |
+| Matrics       | Baseline        | CRF          |
 |:------------- |:---------------:| -------------:|
 | Precision (FM)|  0.48.          |     0.77      |
 | Recall (FM)   |  0.71           |     0.62      |

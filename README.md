@@ -93,9 +93,9 @@ Evaluation-scores:
 
 | Category      |        Number   | 
 |:------------- |:---------------:|
-| positive|  1005          |
-| negative |  89          |
-| neutral    |  43          |
+| positive|  836          |
+| negative |  74          |
+| neutral    |  41          |
 
 Evaluation-scores:
 
